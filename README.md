@@ -6,9 +6,10 @@
 
 ![AI Agent Architect](https://img.shields.io/badge/AI%20Agent%20Architect-1a1b27?style=flat&labelColor=1a1b27)
 ![AI Research Engineer](https://img.shields.io/badge/AI%20Research%20Engineer-1a1b27?style=flat&labelColor=1a1b27)
-![Technical Educator](https://img.shields.io/badge/Technical%20Educator-1a1b27?style=flat&labelColor=1a1b27)
+![AI Evangelist](https://img.shields.io/badge/AI%20Evangelist-1a1b27?style=flat&labelColor=1a1b27)
+![Open Source Builder](https://img.shields.io/badge/Open%20Source%20Builder-1a1b27?style=flat&labelColor=1a1b27)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Building+Production+AI+Agent+Systems;Researching+LLM+Reasoning+%26+Evaluation;Teaching+AI+Without+the+Magic)](https://github.com/Mathews-Tom)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Building+Production+AI+Agent+Systems;Researching+LLM+Reasoning+%26+Evaluation;Demystifying+AI+for+Builders+%26+Practitioners;Engineering+RAG+%26+Memory+for+AI+Agents)](https://github.com/Mathews-Tom)
 
 </div>
 
@@ -41,22 +42,22 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
 
 <div align="center">
   <a href="https://github.com/Mathews-Tom/no-magic">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="no-magic"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="no-magic"/>
   </a>
   <a href="https://github.com/Mathews-Tom/Agentic-Design-Patterns">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Agentic-Design-Patterns"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Agentic-Design-Patterns"/>
   </a>
   <a href="https://github.com/Mathews-Tom/LightPROF">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
   </a>
   <a href="https://github.com/Mathews-Tom/CogniBench">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CogniBench"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CogniBench"/>
   </a>
   <a href="https://github.com/Mathews-Tom/GraphAgent-RAG">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GraphAgent-RAG"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GraphAgent-RAG"/>
   </a>
   <a href="https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="IntelliForge-Applied-GenAI-Playbook"/>
+    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="IntelliForge-Applied-GenAI-Playbook"/>
   </a>
 </div>
 
@@ -117,8 +118,8 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <p align="center">
