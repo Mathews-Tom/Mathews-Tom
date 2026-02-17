@@ -2,7 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=70&lines=Senior+ML+Engineer;AI+Agent+Architect;Open+Source+Builder)](https://github.com/Mathews-Tom)
+# Tom Mathews
+
+![AI Agent Architect](https://img.shields.io/badge/AI%20Agent%20Architect-1a1b27?style=flat&labelColor=1a1b27)
+![AI Research Engineer](https://img.shields.io/badge/AI%20Research%20Engineer-1a1b27?style=flat&labelColor=1a1b27)
+![Technical Educator](https://img.shields.io/badge/Technical%20Educator-1a1b27?style=flat&labelColor=1a1b27)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Building+Production+AI+Agent+Systems;Researching+LLM+Reasoning+%26+Evaluation;Teaching+AI+Without+the+Magic)](https://github.com/Mathews-Tom)
 
 </div>
 
