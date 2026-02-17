@@ -1,129 +1,130 @@
-# 👋 Hi there, I'm Tom Mathews
-
-**Senior Software Engineer – Machine Learning & AI**
-
-🔭 I’m currently building cutting‑edge AI agents and RAG systems  
-🌱 Actively exploring distributed knowledge graphs & generative models  
-
-💬 Topics I enjoy exploring:
-- 🧠 Agentic AI & Generative Systems
-- 🛠️ LLM Pipelines (LangChain, RAG)
-- 🔄 Scalable ML Workflows
-- 🌐 Knowledge Graphs (Neo4j)
-- 🤖 Multi-agent Reasoning
-  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mathews-tom/)
-
----
-
-## 🚀 Featured Projects
-
-### **GraphAgent‑RAG**  
-Hybrid Retrieval‑Augmented Generation + Knowledge Graph agent.  
-🚧 2★ star, 1 fork • Core tech: Python, PostgreSQL + pgvector, Neo4j, FastAPI
-
-### **Machine Learning & AI Hub**  
-Curated full‑stack ML & AI course materials—bootcamps, deep learning, NLP, EDA.  
-50+ notebooks & projects • Forked 1★ 
-
-### **Custom‑Fast‑Stable‑Diffusion**  
-Streamlined AUTOMATIC1111 + DreamBooth integration for faster image generation.  
-1★ • MIT‑licensed
-
-### **Google ADK Bootcamp**  
-In‑depth LLM agent creation tutorials using Google’s Agent Development Kit.  
-31 modules, step‑by‑step guides, demos
-
----
-
-## 🛠️ Other Noteworthy Repos
-
-* **[LLM‑LangChain‑Tutorials](https://github.com/Mathews-Tom/LLM-LangChain-Tutorials)** – Jupyter‑based tutorials on LLM agent flows using Python & LangChain.
-* **[RAG‑Papers](https://github.com/Mathews-Tom/RAG-Papers)** – In‑depth summaries and notes on RAG research.
-* **[Artificial‑Whiteboard](https://github.com/Mathews-Tom/Artificial-Whiteboard)** – AI‑powered collaborative whiteboard built with HTML/JS.
-* **[deepwhisperer](https://github.com/Mathews-Tom/deepwhisperer)** – Python package for async Telegram messaging—ideal for bot development.
-* **[IntelliForge‑Applied‑GenAI‑Playbook](https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook)** – Practical code‑first GenAI playbook/framework.
-* **[Machine‑Learning‑and‑Artificial‑Intelligence‑Hub](https://github.com/Mathews-Tom/Machine-Learning-and-Artificial-Intelligence-Hub)** – Centralized ML/AI learning resources & projects.
-
-### 🔥 New Additions
-
-* **[LightPROF](https://github.com/Mathews-Tom/LightPROF)** – Lightweight, modular reasoning framework enabling multi-hop KG-based reasoning with LLMs using a “Retrieve → Embed → Reason” pipeline. Supports both open-source and commercial LLMs without fine-tuning the model ([linkedin.com][1]).
-* **[FastADK](https://github.com/Mathews-Tom/FastADK)** – Super‑efficient alternative to Google ADK agent frameworks, optimized for speed and modular deployments.
-* **[CogniBench](https://github.com/Mathews-Tom/CogniBench)** – A legal‑inspired benchmark and dataset for evaluating LLM cognitive faithfulness. Designed for assessing reasoning integrity in AI systems ([paperswithcode.com][2]).
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact)](https://github.com/Mathews-Tom)
-[![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathews-Tom&show_icons=true)](https://github.com/Mathews-Tom)
-
-##
-
-<h3 align="left">🔥   My Stats :</h3>
-
-##
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Senior+ML+Engineer+%7C+AI+Agent+Architect+%7C+Open+Source+Builder)](https://github.com/Mathews-Tom)
+
 </div>
 
-###
-
 ---
 
-## 🧩 Tech Stack
-
-| Area | Technologies |
-|------|--------------|
-| Languages | Python, SQL, JavaScript |
-| ML/AI | TensorFlow, PyTorch, Hugging Face, LangChain |
-| Agents & RAG | PostgreSQL + pgvector, Neo4j, FastAPI |
-| Tools | Docker, Kubernetes, GitHub Actions |
-| Cloud & DB | AWS, GCP, Neo4j Aura, S3 |
-
----
-
-## 📚 Education & Certifications
-
-- **MSc in Machine Learning & Artificial Intelligence** — UpGrad / IIT Madras & LJMU  
-- **Deep Learning Specialization** — DeepLearning.AI  
-- **TensorFlow Developer Certificate** — Zero to Mastery
-
----
-
-## ✅ How to Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 tom.mathews@nyu.edu
-- 💡 Open to speaking, mentoring, or collaborating on AI projects
-
----
-
-### 🗓️ What’s Next?
-
-- Building **scalable agents** with **Neo4j + RAG pipelines**  
-- Publishing **open‑source tutorials** on Generative AI  
-- Mentoring emerging engineers in AI/ML fields
-
----
+I build production AI systems — from multi-agent orchestration and RAG pipelines to knowledge graph reasoning. My open-source work focuses on making advanced ML techniques accessible and reproducible.
 
 <p align="center">
-  <em>"Building tomorrow's AI, today."</em>
+  <img src="https://komarev.com/ghpvc/?username=Mathews-Tom&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mathews-tom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mathews-Tom?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mathews-Tom?style=for-the-badge&logo=github&logoColor=white&color=1a1b27" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<!--
-**Mathews-Tom/Mathews-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Mathews-Tom/no-magic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true" alt="no-magic"/>
+  </a>
+  <a href="https://github.com/Mathews-Tom/Agentic-Design-Patterns">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true" alt="Agentic-Design-Patterns"/>
+  </a>
+  <a href="https://github.com/Mathews-Tom/LightPROF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true" alt="LightPROF"/>
+  </a>
+</p>
+
+## Other Notable Projects
+
+<p align="center">
+  <a href="https://github.com/Mathews-Tom/CogniBench">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true" alt="CogniBench"/>
+  </a>
+  <a href="https://github.com/Mathews-Tom/GraphAgent-RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true" alt="GraphAgent-RAG"/>
+  </a>
+  <a href="https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true" alt="IntelliForge-Applied-GenAI-Playbook"/>
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**LLM & Agents**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-1a1b27?style=for-the-badge&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mathews-Tom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathews-Tom&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=footer"/>
