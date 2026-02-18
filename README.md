@@ -31,15 +31,47 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
 
 <div align="center">
 
+<a href="https://github.com/Mathews-Tom/no-magic">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=default&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=default&hide_border=true&cache_seconds=86400" alt="no-magic"/>
 </picture>
+</a>
 
+<a href="https://github.com/Mathews-Tom/Agentic-Design-Patterns">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=default&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=default&hide_border=true&cache_seconds=86400" alt="Agentic-Design-Patterns"/>
 </picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/LightPROF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=default&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
+</picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/CogniBench">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=default&hide_border=true&cache_seconds=86400" alt="CogniBench"/>
+</picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/GraphAgent-RAG">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=default&hide_border=true&cache_seconds=86400" alt="GraphAgent-RAG"/>
+</picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=default&hide_border=true&cache_seconds=86400" alt="IntelliForge-Applied-GenAI-Playbook"/>
+</picture>
+</a>
 
 </div>
 
