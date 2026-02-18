@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=header"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:70A5FD&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:70A5FD&height=120&section=header"/>
+</picture>
 
 <div align="center">
 
@@ -18,22 +22,7 @@
 I build production AI systems — from multi-agent orchestration and RAG pipelines to knowledge graph reasoning. My open-source work focuses on making advanced ML techniques accessible and reproducible.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathews-Tom&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mathews-tom/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/tom_mathews">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/treasuring_momentz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mathews-Tom?style=for-the-badge&logo=github&logoColor=white&color=1a1b27" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mathews-Tom&style=flat-square&color=70A5FD&label=Profile+Views" />
 </p>
 
 ---
@@ -41,81 +30,16 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Mathews-Tom/no-magic">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="no-magic"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom/Agentic-Design-Patterns">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Agentic-Design-Patterns"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom/LightPROF">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom/CogniBench">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="CogniBench"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom/GraphAgent-RAG">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GraphAgent-RAG"/>
-  </a>
-  <a href="https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook">
-    <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="IntelliForge-Applied-GenAI-Playbook"/>
-  </a>
-</div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=default&hide_border=true"/>
+</picture>
 
-## Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logoColor=white)
-
-**LLM & Agents**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-1a1b27?style=for-the-badge&logoColor=white)
-![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-1a1b27?style=for-the-badge&logoColor=white)
-
-**Data & Knowledge**
-
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Web & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Tools**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Marimo](https://img.shields.io/badge/Marimo-1a1b27?style=for-the-badge&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=default&hide_border=true"/>
+</picture>
 
 </div>
 
@@ -123,26 +47,34 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/Mathews-Tom?color=70A5FD&style=for-the-badge&logo=star&logoColor=white&label=Total+Stars" alt="Total Stars"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=1a1b27&style=for-the-badge&logo=repo&logoColor=white&label=Public+Repos&query=$.public_repos&url=https://api.github.com/users/Mathews-Tom" alt="Public Repos"/>
-</p>
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mathews-Tom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api?username=Mathews-Tom&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-kohl-six-87.vercel.app/api/top-langs/?username=Mathews-Tom&layout=compact&theme=default&hide_border=true"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mathews-Tom&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Mathews-Tom&theme=default&hide_border=true"/>
+</picture>
+
+</div>
 
 ---
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathews-Tom&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mathews-Tom&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathews-Tom&theme=minimal&hide_border=true&area=true"/>
+</picture>
 </p>
 
 <picture>
@@ -151,4 +83,10 @@ I build production AI systems — from multi-agent orchestration and RAG pipelin
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=footer"/>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:70A5FD&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:70A5FD&height=120&section=footer"/>
+</picture>
