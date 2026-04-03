@@ -117,16 +117,6 @@
 
 ---
 
-## AI Usage
-
-<div align="center">
-  <a href="https://tokscale.ai/u/Mathews-Tom">
-    <img src="https://tokscale.ai/api/embed/Mathews-Tom/svg?sort=cost&compact=1" alt="Tokscale Stats"/>
-  </a>
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -150,7 +140,7 @@
 
 ---
 
-## Activity
+## Contribution Activity
 
 <p align="center">
 <picture>
@@ -164,6 +154,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
 </picture>
+
+---
+
+## AI Token Usage
+
+<div align="center">
+  <a href="https://tokscale.ai/u/Mathews-Tom">
+    <img src="https://tokscale.ai/api/embed/Mathews-Tom/svg?sort=cost&compact=1" alt="Tokscale Stats"/>
+  </a>
+</div>
 
 ---
 
