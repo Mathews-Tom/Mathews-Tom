@@ -121,4 +121,31 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mathews-Tom/Mathews-Tom/output/github-snake.svg"/>
 </picture>
 
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Mathews-Tom">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mathews-tom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/tom_mathews">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:tom.mathews@nyu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70A5FD&height=120&section=footer"/>
