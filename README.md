@@ -22,7 +22,7 @@
 
 ---
 
-> **I build production AI systems across multi-agent orchestration, retrieval pipelines, evaluation infrastructure, and knowledge-aware reasoning. My open-source work is centered on making advanced AI engineering practical, reproducible, and useful to real builders.**
+> **I build production AI systems across multi-agent orchestration, retrieval pipelines, evaluation infrastructure, and knowledge-aware reasoning. My work covers the full applied AI stack: architecting agent systems, hardening retrieval and memory workflows, evaluating model behavior, and turning research ideas into systems people can actually use. My open-source work is centered on making advanced AI engineering practical, reproducible, and useful to real builders.**
 
 ## Featured Projects
 
