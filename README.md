@@ -46,17 +46,17 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/LightPROF">
+<a href="https://github.com/Mathews-Tom/anneal">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=default&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=anneal&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=anneal&theme=default&hide_border=true&cache_seconds=86400" alt="anneal"/>
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/CogniBench">
+<a href="https://github.com/Mathews-Tom/armory">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=CogniBench&theme=default&hide_border=true&cache_seconds=86400" alt="CogniBench"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=armory&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=armory&theme=default&hide_border=true&cache_seconds=86400" alt="armory"/>
 </picture>
 </a>
 
@@ -67,10 +67,10 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/IntelliForge-Applied-GenAI-Playbook">
+<a href="https://github.com/Mathews-Tom/LightPROF">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=IntelliForge-Applied-GenAI-Playbook&theme=default&hide_border=true&cache_seconds=86400" alt="IntelliForge-Applied-GenAI-Playbook"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=default&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
 </picture>
 </a>
 
