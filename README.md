@@ -60,10 +60,10 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/GraphAgent-RAG">
+<a href="https://github.com/Mathews-Tom/archex">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=GraphAgent-RAG&theme=default&hide_border=true&cache_seconds=86400" alt="GraphAgent-RAG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=default&hide_border=true&cache_seconds=86400" alt="archex"/>
 </picture>
 </a>
 
