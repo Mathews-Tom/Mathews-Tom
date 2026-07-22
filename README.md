@@ -17,10 +17,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Mathews-Tom?style=for-the-badge&logo=github&logoColor=white&color=1a1b27&label=Followers" alt="GitHub Followers"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/Mathews-Tom?color=70A5FD&style=for-the-badge&logo=star&logoColor=white&label=Total+Stars" alt="Total Stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/Mathews-Tom?color=70A5FD&style=for-the-badge&logo=star&logoColor=white&label=Personal+Stars" alt="Personal Stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/no-magic-ai/no-magic?color=70A5FD&style=for-the-badge&logo=star&logoColor=white&label=no-magic+(org)" alt="no-magic org Stars"/>
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=1a1b27&style=for-the-badge&logo=repo&logoColor=white&label=Public+Repos&query=$.public_repos&url=https://api.github.com/users/Mathews-Tom" alt="Public Repos"/>
   <img src="https://komarev.com/ghpvc/?username=Mathews-Tom&style=for-the-badge&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
 </p>
+
+<sub>3,600+ combined stars across personal repos and org-owned work (<a href="https://github.com/no-magic-ai/no-magic"><code>no-magic-ai/no-magic</code></a>, 1,385★ — built and maintained by me, org-hosted).</sub>
 
 </div>
 
@@ -28,28 +31,16 @@
 
 > **I build production AI systems across multi-agent orchestration, retrieval pipelines, evaluation infrastructure, and knowledge-aware reasoning. My work covers the full applied AI stack: architecting agent systems, hardening retrieval and memory workflows, evaluating model behavior, and turning research ideas into systems people can actually use. My open-source work is centered on making advanced AI engineering practical, reproducible, and useful to real builders.**
 
+*Note: [`Agentic-Design-Patterns`](https://github.com/Mathews-Tom/Agentic-Design-Patterns) is a compiled reference text (credited to its original authors), not a software project — kept separate from the shipped tools below.*
+
 ## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Mathews-Tom/no-magic">
+<a href="https://github.com/Mathews-Tom/archex">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=no-magic&theme=default&hide_border=true&cache_seconds=86400" alt="no-magic"/>
-</picture>
-</a>
-
-<a href="https://github.com/Mathews-Tom/Agentic-Design-Patterns">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Agentic-Design-Patterns&theme=default&hide_border=true&cache_seconds=86400" alt="Agentic-Design-Patterns"/>
-</picture>
-</a>
-
-<a href="https://github.com/Mathews-Tom/anneal">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=anneal&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=anneal&theme=default&hide_border=true&cache_seconds=86400" alt="anneal"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=default&hide_border=true&cache_seconds=86400" alt="archex"/>
 </picture>
 </a>
 
@@ -60,17 +51,38 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/archex">
+<a href="https://github.com/Mathews-Tom/searchat">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=archex&theme=default&hide_border=true&cache_seconds=86400" alt="archex"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=searchat&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=searchat&theme=default&hide_border=true&cache_seconds=86400" alt="searchat"/>
 </picture>
 </a>
 
-<a href="https://github.com/Mathews-Tom/LightPROF">
+<a href="https://github.com/Mathews-Tom/Kosha">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=LightPROF&theme=default&hide_border=true&cache_seconds=86400" alt="LightPROF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Kosha&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Kosha&theme=default&hide_border=true&cache_seconds=86400" alt="Kosha"/>
+</picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/Enginery">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Enginery&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=Enginery&theme=default&hide_border=true&cache_seconds=86400" alt="Enginery"/>
+</picture>
+</a>
+
+<a href="https://github.com/Mathews-Tom/VaultMind">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=VaultMind&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=Mathews-Tom&repo=VaultMind&theme=default&hide_border=true&cache_seconds=86400" alt="VaultMind"/>
+</picture>
+</a>
+
+<a href="https://github.com/no-magic-ai/no-magic">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=no-magic-ai&repo=no-magic&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img width="47%" src="https://github-readme-stats-kohl-six-87.vercel.app/api/pin/?username=no-magic-ai&repo=no-magic&theme=default&hide_border=true&cache_seconds=86400" alt="no-magic (no-magic-ai org)"/>
 </picture>
 </a>
 
